@@ -77,7 +77,6 @@
                 gtk4
                 atkmm
                 webkitgtk
-                nodejs
               ]);
 
               postPatch = ''
